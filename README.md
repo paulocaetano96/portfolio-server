@@ -113,9 +113,9 @@ nodemailer --save
 
 The url to your repository and to your deployed project
 
-[Client repository Link](https://github.com/paulocaetano96/project-management-client)
+[Client repository Link](https://github.com/paulocaetano96/portfolio-client)
 
-[Server repository Link](https://github.com/paulocaetano96/project-management-server)
+[Server repository Link](https://github.com/paulocaetano96/portfolio-server)
 
 [Deployed App Link](http://heroku.com)
 
